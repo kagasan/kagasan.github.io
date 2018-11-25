@@ -3,8 +3,8 @@
 }
 
 .content {
-    width: 95vw;
-    max-width: 960px;
+    width: 95%;
+    max-width: 1080px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -19,7 +19,7 @@
     padding-left: 10px;
     background-color: #3F5FFF;
     color: #CDE6E8;
-    font-size: 32px;
+    font-size: 3.3333vw;
     margin:0;    
 }
 
@@ -27,7 +27,7 @@
     padding-top: 10px;
     padding-left: 10px;
     color: #505050;
-    font-size: 28px;
+    font-size: 2.9166vw;
     font-weight: bold;
     margin:0;
 }
@@ -38,7 +38,7 @@
 .content > h3 {
     padding-left: 10px;
     color: #505050;
-    font-size: 26px;
+    font-size: 2.7083vw;
     font-weight: 100;
     margin:0;
 }
@@ -51,7 +51,7 @@
 .content > h4 {
     padding-left: 10px;
     color: #FF0E4F;
-    font-size: 24px;
+    font-size: 2.5vw;
     margin:0;
 }
 
@@ -61,4 +61,13 @@
     color: #3F5FFF;
     font-weight: bold;
     margin:0;
+}
+
+.qr {
+    width: 100%;
+    max-width: 400px;
+    display: block;
+    padding-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
 }

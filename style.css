@@ -1,6 +1,6 @@
 .body {
     background-color: #CDE6E8;
-    font-family: sans-serif;
+    /*font-family: sans-serif;*/
 }
 
 .content {
@@ -14,6 +14,7 @@
     margin-top: 20px;
     margin-bottom: 30px;
     background-color: #CDE6E8;
+    font-family: 'Noto Sans JP', sans-serif;
 }
 
 .content > h1 {

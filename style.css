@@ -69,7 +69,7 @@ a.anchor{
 }
 
 .content{
-    width: 95%;
+    width: 90%;
     margin-left: auto;
     margin-right: auto;
     border-radius: 0.5em;
@@ -84,9 +84,11 @@ a.anchor{
 }
 
 .kagaImg{
-    background-image: url(sample.png);
+    background-image: url(kagasan.png);
+    background-size: 400px;
     background-repeat:no-repeat;
-    background-position:right bottom;
+    background-position:350px;
+    
 }
 
 .content > h1{
